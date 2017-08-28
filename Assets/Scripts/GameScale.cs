@@ -3,7 +3,7 @@
 public class GameScale : MonoBehaviour {
 
 	[SerializeField]
-	int Step = 16;
+	int Step;
 
 	void Start ()
 	{
